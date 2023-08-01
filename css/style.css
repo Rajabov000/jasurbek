@@ -1,0 +1,25 @@
+body{
+                      background-color: rgb(36, 250, 239);
+
+}
+
+h1{
+                      text-align: center;
+                      font-size: 55px;
+                      color: rgb(5, 7, 5);
+                      
+}
+h3{
+                      font-family: 30px;
+}
+ol{
+                      font-size: 20px;
+}
+
+li {
+                      color: rgb(0, 0, 0);
+}
+
+a {
+                      color: rgb(5, 21, 255)            ;
+}
